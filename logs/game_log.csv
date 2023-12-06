@@ -1,4 +1,5 @@
-2Draw,X,Bot,9,"(1, 2)",Draw
+Winner,Player1,Player2,MoveCount,FirstMove,Outcome
+Draw,X,Bot,9,"(1, 2)",Draw
 X,X,Bot,7,"(1, 1)",Win
 O,Bot,O,6,"(2, 3)",Lose
 X,X,Bot,5,"(1, 1)",Win
